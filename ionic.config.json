@@ -1,0 +1,7 @@
+{
+  "name": "nguni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
